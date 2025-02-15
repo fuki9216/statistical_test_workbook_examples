@@ -1,8 +1,5 @@
-### 参考
-
-https://note.com/ebikazuki/n/n0ace45d1cf6a#79c6f57c-74c8-4be1-8213-b7f34d863fad
-
-### 回答
+## 統計検定準1級(Statistical Test Pre-1st grade)
+## 2章 例題2-1
 ### 参考
 
 https://note.com/ebikazuki/n/n0ace45d1cf6a#79c6f57c-74c8-4be1-8213-b7f34d863fad
