@@ -31,7 +31,7 @@ $\bar{y} = 47.14$
 
 $\bar{s_y^2} = 62.41$
 
-$r = \frac{39.14}{\sqrt{59.71 \cdot 47.14}}=0.7377$
+$r = \frac{39.14}{\sqrt{59.71 \cdot 62.41}}=0.6412$
 
 回帰パラメータの推定値
 
@@ -39,13 +39,13 @@ $r = \frac{39.14}{\sqrt{59.71 \cdot 47.14}}=0.7377$
 
 $\hat{a} = \bar{y} - b \bar{x} = 47.14 - 0.655 \cdot 45 = 17.655$
 
-$\hat{\beta} = \frac{s_{xy}^2}{s_x^2} =\frac{39.14}{59.71}= 0.655$
+$\hat{\beta} = \frac{s_{xy}}{s_x^2} =\frac{39.14}{59.71}= 0.655$
 
 上記より$X$の周辺分布以外のパラメータの最尤推定値は以下のようになる
 
 $\hat{\mu_Y} = \hat{\alpha} + \hat{\beta} \hat{x} = 17.65 + 0.655 \cdot 50 = 50.65$ 
 
-$\hat{\sigma}^2_Y = \hat{t}^2 + \hat{\beta}^2 \cdot \hat{\sigma^2}_X = 36.75 + 0.655 \cdot 100.6 = 80.57$ 
+$\hat{\sigma}^2_Y = \hat{t}^2 + \hat{\beta} \cdot \hat{\sigma^2}_X = 36.75 + 0.655 \cdot 100.6 = 80.57$ 
 
 $\hat{\sigma}_{XY} = \hat{\beta} \cdot \hat{\sigma^2}_X =0.655 \cdot 100.6  = 65.94$ 
 
